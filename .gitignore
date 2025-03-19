@@ -1,3 +1,4 @@
 *.bin
 build/*
 *.code-workspace
+c_cpp_properties.json
